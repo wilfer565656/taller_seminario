@@ -1,0 +1,74 @@
+*{
+    border: 0;
+    padding: 0;
+    
+    color: white;
+  
+}
+.contenedor{
+    margin: auto;
+    margin-top: 50px;
+    width: 80%;
+    height: 1000px;
+   background: #000;
+}
+i:hover{
+    color: rgb(100, 170, 194);
+    transition: ease-in 3ms;
+    
+}
+h2{
+    width: 100%;
+    background: #2f4f4f;
+}
+ul{
+    margin-left: 20px;
+}
+header{
+    background-image: url("https://www.rocajunyent.com/sites/default/files/styles/image_550x450/public/content/image/2019/10/24/52/blog_diferencias-pintelectual-y-pindustrial.jpg?itok=naGhKKGH");
+    text-align: center;
+    border-bottom:solid 1px lavenderblush;
+    margin-bottom: 0;
+}
+
+.inf p{
+    width: 60%;
+    float: left;
+}
+.inf img{
+    width: 150px;
+    height: 150px;
+    float: right;
+    border-radius: 50%;
+}
+
+.inf{
+     padding: 50px 50px 0 50px;
+    display: inline-block;
+     
+
+}
+
+.personal{
+    border-bottom:solid 1px lavenderblush;
+}
+.informacion {
+    display: inline;
+}
+
+
+.informacion .experiencia{
+    width: 45%;
+    height: 100%;
+    float: left;
+}
+.informacion .educacion{
+    width: 45%;
+    height: 100%;
+    float: right;
+}
+
+
+
+
+ 
